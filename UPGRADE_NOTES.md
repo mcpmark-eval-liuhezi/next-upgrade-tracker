@@ -2,7 +2,7 @@
 
 ## Baseline
 
-- **Latest upstream release of vercel/next.js: `v16.4.6`** — published 2026-11-09, targeting `canary`. A backport release that fixes bugs without all pending canary changes.
+- **Latest upstream release of vercel/next.js: `v16.4.6`** — published 2026-11-09, targeting `canary`.
 - Tracking issue for upstream releases we evaluate: [#1 "Track Next.js releases"](https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/issues/1)
 
 ## Upstream discussion categories
@@ -15,5 +15,4 @@ Each upstream release we evaluate gets recorded in the tracking issue, with note
 
 ## Changelog
 
-- **2026-11-09** — baseline updated to `v16.4.6`, superseding the previous `v16.4.5` record.
-- **2026-11-05** — baseline updated to `v16.4.5`, superseding the `v16.4.2` note recorded in PR #2 (that label was current in October, before `v16.4.5` was released).
+- **2026-11-09** — baseline updated to `v16.4.6` (most recent upstream release of vercel/next.js), superseding the `v16.4.5` baseline recorded in #1 and the `v16.4.2` note in PR #2.
