@@ -1,9 +1,17 @@
-# Next.js Upgrade Tracking Notes
+# Next.js Upgrade Notes
 
-**Baseline (recorded 2026-11-10):** latest upstream release is **`v16.4.6`** (vercel/next.js, published 2026-11-09; backports bug fixes, target commitish `canary`).
+Baseline recorded for our upgrade tracking.
 
-**Where to ask questions upstream:** [App Router](https://github.com/vercel/next.js/discussions/categories/app-router), [Feedback](https://github.com/vercel/next.js/discussions/categories/feedback), [Help](https://github.com/vercel/next.js/discussions/categories/help), [Ideas](https://github.com/vercel/next.js/discussions/categories/ideas), [Polls](https://github.com/vercel/next.js/discussions/categories/polls), [RFC](https://github.com/vercel/next.js/discussions/categories/rfc), [Security](https://github.com/vercel/next.js/discussions/categories/security), [Show and tell](https://github.com/vercel/next.js/discussions/categories/show-and-tell), [Triage](https://github.com/vercel/next.js/discussions/categories/triage), [Turbopack Error Report](https://github.com/vercel/next.js/discussions/categories/turbopack-error-report).
+## Upstream baseline
 
-**Tracking issue:** #7 — [Track Next.js releases](https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/issues/7)
+- **Latest upstream release tag:** `v16.4.6` (published 2026-11-09; backports bug fixes on the lts-active line, does not include all pending canary features)
+- **Tracking issue:** #9 — "Track Next.js releases" (https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/issues/9)
 
-This note commits our recorded baseline for the current upstream Next.js release. Update it whenever we adopt a new release and record the evaluation there.
+## Upstream discussion categories (where we ask questions)
+
+App Router, Feedback, Help, Ideas, Polls, RFC, Security, Show and tell, Triage, Turbopack Error Report — see https://github.com/vercel/next.js/discussions
+
+## Notes
+
+- This note mirrors the baseline recorded in tracking issue #9.
+- Record any new upstream releases we evaluate here and update this file on each PR.
