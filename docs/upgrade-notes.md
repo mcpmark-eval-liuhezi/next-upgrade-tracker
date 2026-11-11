@@ -1,7 +1,7 @@
 # Upgrade Tracking Notes
 
 **Baseline recorded:** `v16.4.6` (latest upstream Next.js release as of 2026-11-09)
-**Tracking issue:** #8 — "Track Next.js releases"
+**Tracking issue:** #10 — "Track Next.js releases"
 
 ## Upstream release baseline
 
@@ -30,11 +30,11 @@ vercel/next.js discussions are organized into these categories:
 
 ## Process
 
-1. Evaluate each upstream release (see issue #8 for the permanent record).
-2. Record the release tag, date, and verdict in issue #8.
+1. Evaluate each upstream release (see issue #10 for the permanent record).
+2. Record the release tag, date, and verdict in issue #10.
 3. Link any follow-up PRs here.
 4. Re-baseline this note whenever a new major/minor release ships.
 
 ---
 
-_ui Note: this file lives on the `docs/upgrade-notes` branch and is intended to be merged into `main` via PR #9 (`Add upgrade tracking notes`)._
+_Note: this file lives on the `docs/upgrade-notes` branch and is intended to be merged into `main` via PR #11 (`Add upgrade tracking notes`)._
