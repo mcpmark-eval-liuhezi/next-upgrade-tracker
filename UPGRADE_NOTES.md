@@ -3,7 +3,8 @@
 ## Baseline
 
 - **Latest upstream release of vercel/next.js: `v16.4.6`** — published 2026-11-09, targeting `canary`.
-- Tracking issue for upstream releases we evaluate: [#1 "Track Next.js releases"](https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/issues/1)
+- Upstream release tracking issue: [#6 "Track Next.js releases"](https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/issues/6)
+- Upgrade tracking pull request: [#3 "Add upgrade tracking notes"](https://github.com/mcpmark-eval-liuhezi/next-upgrade-tracker/pull/3)
 
 ## Upstream discussion categories
 
@@ -15,4 +16,4 @@ Each upstream release we evaluate gets recorded in the tracking issue, with note
 
 ## Changelog
 
-- **2026-11-09** — baseline updated to `v16.4.6` (most recent upstream release of vercel/next.js), superseding the `v16.4.5` baseline recorded in #1 and the `v16.4.2` note in PR #2.
+- **2026-11-09** — baseline recorded as `v16.4.6` (most recent upstream release of vercel/next.js), tracked in #6.
