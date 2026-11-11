@@ -1,7 +1,7 @@
 # Upgrade Baseline
 
 - **Baseline upstream release tag:** `v16.4.6`
-- **Tracked in issue:** #6 (Track Next.js releases)
+- **Tracked in issue:** #7 (Track Next.js releases)
 
 ## Notes
 
